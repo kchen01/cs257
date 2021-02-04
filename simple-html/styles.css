@@ -1,0 +1,42 @@
+/* Author: Kevin Chen */
+body {
+    margin: auto;
+    padding-top: 50px;
+}
+
+#group {
+    margin: auto;
+    height: 600px;
+    width: 40%;
+    padding-left: 100px;
+}
+
+#bottomleft {
+    width: 20%;
+    height: 42%;
+    float:left;
+    font-size: 14pt;
+    color: white;
+    background-color: rgb(49, 216, 49);
+    outline: 10px solid white;
+}
+
+#bottomright {
+    width: 80%;
+    height: 42%;
+    float:left;
+    font-size: 14pt;
+    color: white;
+    background-color: #7f7df7;
+    outline: 10px solid white;
+}
+
+#top {
+    width: 100%;
+    height: 16%;
+    float:left;
+    font-size: 14pt;
+    color: white;
+    background-color: #d18787;
+    outline: 10px solid white;
+}
